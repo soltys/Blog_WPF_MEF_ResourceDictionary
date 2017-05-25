@@ -1,0 +1,13 @@
+﻿<ResourceDictionary
+    x:Class="MainResources.AllStyles"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:MainResources">
+    <Style x:Key="Style.TextBlock" TargetType="{x:Type TextBlock}">
+        <Setter Property="FontFamily" Value="Roboto"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontSize" Value="18"/>
+    </Style>
+    <SolidColorBrush x:Key="Brush.TopPart" Color="#E9E8E7" />
+    <SolidColorBrush x:Key="Brush.BottomPart" Color="#D4213D" />
+</ResourceDictionary>

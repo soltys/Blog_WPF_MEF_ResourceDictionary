@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefAndResourceDictionary", "WpfApplication3\MefAndResourceDictionary.csproj", "{4E8E250B-FFFB-4805-A197-03FE7968BAD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainResources", "MainResources\MainResources.csproj", "{8142A686-EC5E-4058-93CF-CDFC13A92FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientResources", "ClientResources\ClientResources.csproj", "{C332881D-3522-4EC0-9122-618E808F81D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8E250B-FFFB-4805-A197-03FE7968BAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8E250B-FFFB-4805-A197-03FE7968BAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8E250B-FFFB-4805-A197-03FE7968BAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8E250B-FFFB-4805-A197-03FE7968BAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8142A686-EC5E-4058-93CF-CDFC13A92FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8142A686-EC5E-4058-93CF-CDFC13A92FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8142A686-EC5E-4058-93CF-CDFC13A92FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8142A686-EC5E-4058-93CF-CDFC13A92FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C332881D-3522-4EC0-9122-618E808F81D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C332881D-3522-4EC0-9122-618E808F81D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C332881D-3522-4EC0-9122-618E808F81D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C332881D-3522-4EC0-9122-618E808F81D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+﻿<ResourceDictionary
+    x:Class="ClientResources.All"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="Brush.TopPart" Color="#0057b8" />
+    <SolidColorBrush x:Key="Brush.BottomPart" Color="#ffd700" />
+</ResourceDictionary>
